@@ -1,0 +1,13 @@
+package com.duriancodes.ratingcontrolservice.automation;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RatingControlServiceAutomationApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(RatingControlServiceAutomationApplication.class, args);
+    }
+
+}
